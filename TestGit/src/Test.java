@@ -2,7 +2,8 @@
 public class Test {
 
 	public static void main(String[] args) {
-         System.out.println("¾êµÄµÚÒ»´Î²¿Êğ");
+         System.out.println("ï¿½ï¿½Äµï¿½Ò»ï¿½Î²ï¿½ï¿½ï¿½");
+         System.out.println("å¨Ÿç¬¬ä¸€æ¬¡æäº¤");
 	}
 
 }
